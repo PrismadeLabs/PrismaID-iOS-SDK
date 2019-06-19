@@ -30,3 +30,9 @@ end
 ```bash
 pod install
 ```
+
+### Update Pods
+
+```bash
+pod update PrismaID
+```
